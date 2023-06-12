@@ -1,0 +1,15 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\bin\Debug\net6.0\pertemuan 9.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\bin\Debug\net6.0\pertemuan 9.deps.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\bin\Debug\net6.0\pertemuan 9.runtimeconfig.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\bin\Debug\net6.0\pertemuan 9.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\bin\Debug\net6.0\pertemuan 9.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.AssemblyInfo.cs
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\refint\pertemuan 9.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\pertemuan 9.genruntimeconfig.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu9\pertemuan 9\obj\Debug\net6.0\ref\pertemuan 9.dll
